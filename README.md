@@ -13,4 +13,4 @@
 
 [Questões da Geovanna](Geovanna-Greedy/explicacao.md)
 
-[Questões do Leonardo](Grafos2-Leonardo/explicacao.md)
+[Questões do Leonardo](Greedy-Leonardo/explicacao.md)
