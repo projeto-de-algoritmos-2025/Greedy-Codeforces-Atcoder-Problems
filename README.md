@@ -14,3 +14,5 @@
 [Questões da Geovanna](Geovanna-Greedy/explicacao.md)
 
 [Questões do Leonardo](Leonardo-Greedy/explicacao.md)
+
+[Vídeo da apresentação](https://youtu.be/YATQpZZryF8)
