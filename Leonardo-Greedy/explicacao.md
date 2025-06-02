@@ -23,6 +23,7 @@ Agora, Naruto quer saber a área máxima possível de um retângulo que ele cons
 3. Guardaremos as posições das retas mais a esquerda e diretia em variáveis L e R, sendo L = $ \infty $ e R = $ -\infty$ inicialmente. A cada iteração, vemos se a posição da reta atual é menor que L ou maior que R.
 
 [Link do codigo](./naruto_rect.cpp)
+
 [Link da Submissão](https://www.codechef.com/problems/COW207?tab=submissions)
 
 ## 1D Reversi
@@ -67,4 +68,5 @@ Encontre o maior tempo possível para ele resolver os problemas escolhidos.
 Para resolver esse problema foi utilizada a técnica Meet in the Middle para gerar as somas dos subconjuntos de duas metades C1, e C2 do espaço original, sendo esses novos conjuntos chamados dee S1 e S2. Em seguida, obtia-se a melhor soma de cada elemento de S1 em S2. Caso a soma de um elemento i de S1, fosse melhor que um anterior, atualizava-se a variavel que armazenava o melhor.
 
 [Link do Código](./programming_contest.cpp)
+
 [Link da Submissão](https://atcoder.jp/contests/abc184/submissions/66413334)
